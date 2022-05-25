@@ -23,3 +23,5 @@ You must write an algorithm with O(log n) runtime complexity.
 
 ## first Solution
 [LeetCode](https://leetcode.com/submissions/detail/706830994/)
+
+[![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-35-Search-Insert-Position)](https://replit.com/@oscharko/JS-LeetCode-35-Search-Insert-Position)

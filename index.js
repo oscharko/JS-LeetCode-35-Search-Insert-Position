@@ -1,7 +1,6 @@
 let nums = [1, 3, 5, 6], target = 2
 
 const searchInsert = function(nums, target) {
-
   /*
   # Description for array v:
   #   - v[0] = input array and also pointer right
@@ -23,7 +22,5 @@ const searchInsert = function(nums, target) {
   return v[1]
 
 };
-
-
 
 console.log(searchInsert(nums, target))
